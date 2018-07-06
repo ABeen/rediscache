@@ -2,7 +2,6 @@
 
 The Python interface to the redis-py.
 
-
 ## Getting Started
 
 ```Python
